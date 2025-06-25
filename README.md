@@ -24,7 +24,8 @@ Using SQL for data extraction and preparation, and Tableau for visual storytelli
 
 # SQL processing
 
-I used DBeaver CE with SQLite to clean and join datasets, categorize hospitals, and extract relevant metrics. Full SQL queries (with comments) can be found here:[queries.sql]()
+I used DBeaver CE with SQLite to clean and join datasets, categorize hospitals, and extract relevant metrics. Full SQL queries (with comments) can be found here:[queries.sql](https://github.com/Heritier1990/Hospital_performance_SQL-Tableau/blob/main/Hospital_analysis.sql)
+
 **Techniques used:**
  -Data cleaning & filtering (e.g., removing "Not Applicable")
  -Joins across datasets (INNER and LEFT JOINs)
@@ -34,7 +35,7 @@ I used DBeaver CE with SQLite to clean and join datasets, categorize hospitals, 
 
  # Visualizations (Tableau)
 
- Published dashboard: [Tableau Public: Hospital Performance Story]()
+ Published dashboard: [Tableau Public: Hospital Performance Story](https://public.tableau.com/app/profile/henri.heritier/viz/ExploringHospitalPerformanceThroughOwnershipGeographyandPatientEngagement/Story1?publish=yes )
 
  # Key Dashboards
  
